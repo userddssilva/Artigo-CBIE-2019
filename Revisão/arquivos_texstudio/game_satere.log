@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.6.26)  20 AUG 2019 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.6.29)  20 AUG 2019 12:54
 entering extended mode
 **./game_satere.tex
 (game_satere.tex
@@ -65,7 +65,7 @@ Package: times 2005/04/12 PSNFSS-v9.2a (SPQR)
 )
 \c@instn=\count91
 
-(C:\Users\GapaTEd\AppData\Roaming\MiKTeX\2.9\tex/latex/titlesec\titlesec.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box27
 \beforetitleunit=\skip43
@@ -97,7 +97,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
-(C:\Users\GapaTEd\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -110,14 +110,14 @@ File: switch.def 2019/04/22 3.30 Babel switching mechanism
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\GapaTEd\AppData\Roaming\MiKTeX\2.9\tex/latex/arabi\bblopts.cfg
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\GapaTEd\AppData\Roaming\MiKTeX\2.9\tex/latex/babel-portuges\portuges.
-ldf
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-portuges\portuges.ldf"
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
 File: babel.def 2019/04/22 3.30 Babel common definitions
 \babel@savecnt=\count92
 \U@D=\dimen122
@@ -132,7 +132,19 @@ Package babel Info: Making " an active character on input line 145.
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (game_satere.aux)
+)
+Runaway argument?
+{ xxxxxxxx -- xxxxxxxx\\ 
+! Paragraph ended before \address was complete.
+<to be read again> 
+                   \par 
+l.23 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+(game_satere.aux)
 \openout1 = `game_satere.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -148,8 +160,7 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -186,9 +197,7 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-(C:\Users\GapaTEd\AppData\Roaming\MiKTeX\2.9\tex/context/base/mkii\supp-pdf.mki
-i
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen123
@@ -254,9 +263,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 27.
-
-
-LaTeX Warning: No \author given.
 
 ! Undefined control sequence.
 \@maketitle ...r}[t]{c}\inst {\instnum }\@address 
@@ -380,8 +386,8 @@ LaTeX Warning: There were undefined references.
  ) 
 Here is how much of TeX's memory you used:
  3231 strings out of 492897
- 46311 string characters out of 3133492
- 129846 words of memory out of 3000000
+ 46172 string characters out of 3133492
+ 129888 words of memory out of 3000000
  7070 multiletter control sequences out of 15000+200000
  20011 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -392,7 +398,7 @@ onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
 /times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pf
 b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on game_satere.pdf (8 pages, 15147088 bytes).
+Output written on game_satere.pdf (8 pages, 15147269 bytes).
 PDF statistics:
  75 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
