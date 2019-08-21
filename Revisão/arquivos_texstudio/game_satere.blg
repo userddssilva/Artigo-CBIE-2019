@@ -1,54 +1,8 @@
-This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
-Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
-The top-level auxiliary file: game_satere.aux
-White space in argument---line 5 of file game_satere.aux
- : \citation{de
- :              Souza Pires et al. 2018}
-I'm skipping whatever remains of this command
+This is BibTeX, Version 0.99dThe top-level auxiliary file: game_satere.aux
 The style file: sbc.bst
 Database file #1: sbc-template.bib
 Warning--there's a number but no volume in cunha2008politicas
+Warning--can't use both volume and number fields in de2018livro
 Warning--empty journal in rossing2012ilearning
 Warning--empty journal in von2018meega+
-You've used 10 entries,
-            1935 wiz_defined-function locations,
-            534 strings with 5587 characters,
-and the built_in function-call counts, 3726 in all, are:
-= -- 370
-> -- 124
-< -- 8
-+ -- 40
-- -- 40
-* -- 291
-:= -- 649
-add.period$ -- 30
-call.type$ -- 10
-change.case$ -- 69
-chr.to.int$ -- 10
-cite$ -- 13
-duplicate$ -- 159
-empty$ -- 276
-format.name$ -- 50
-if$ -- 735
-int.to.chr$ -- 1
-int.to.str$ -- 0
-missing$ -- 11
-newline$ -- 51
-num.names$ -- 30
-pop$ -- 70
-preamble$ -- 1
-purify$ -- 70
-quote$ -- 0
-skip$ -- 120
-stack$ -- 0
-substring$ -- 253
-swap$ -- 22
-text.length$ -- 2
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 58
-warning$ -- 3
-while$ -- 34
-width$ -- 0
-write$ -- 126
-(There was 1 error message)
+(There were 4 warnings)
