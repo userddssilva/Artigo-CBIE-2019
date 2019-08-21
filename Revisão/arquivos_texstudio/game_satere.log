@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.9.1)  21 AUG 2019 10:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.9.1)  21 AUG 2019 12:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -241,35 +241,19 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
-
-
-LaTeX Warning: No \author given.
-
-! Undefined control sequence.
-\@maketitle ...r}[t]{c}\inst {\instnum }\@address 
-                                                  \end {tabular}\par } \vglu...
-l.27 \maketitle
-               
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 29.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+
 
 LaTeX Warning: Citation `de Souza Pires et al. 2018' on page 1 undefined on inp
 ut line 36.
@@ -277,122 +261,136 @@ ut line 36.
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<imagens/diagramaDesenvolvimento.png, id=11, 649.97832pt x 252.49332pt>
+! Illegal parameter number in definition of \reserved@a.
+<to be read again> 
+                   }
+l.45 ... na linguagem de programação \textit{c#}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<argument> c##
+              
+l.45 ... na linguagem de programação \textit{c#}
+                                                  
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+<imagens/diagramaDesenvolvimento.png, id=10, 649.97832pt x 252.49332pt>
 File: imagens/diagramaDesenvolvimento.png Graphic file (type png)
 <use imagens/diagramaDesenvolvimento.png>
 Package pdftex.def Info: imagens/diagramaDesenvolvimento.png  used on input lin
-e 52.
+e 53.
 (pdftex.def)             Requested size: 426.79135pt x 165.79463pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 53.
-
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 54.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 53.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 54.
  [2 <./imagens/diagramaDesenvolvimento.png>]
 
 LaTeX Warning: Citation `nielsen1994usability' on page 3 undefined on input lin
-e 78.
-
-
-LaTeX Warning: Citation `von2018meega+' on page 3 undefined on input line 81.
+e 79.
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 []\OT1/ptm/m/n/12 No link []e poss[]^^Pvel as-sis-tir ao v[]^^Pdeo de-mons-tra-
 tivo do jogo:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--92
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 \OT1/ptm/m/it/12 (https://www.youtube.com/watch?v=3ssmG7iYwOs)\OT1/ptm/m/n/12 .
 O de-sen-vol-vi-mento do apli-ca-
  []
 
-<imagens/diag_fluxo_tela.png, id=19, 361.35pt x 352.31625pt>
+<imagens/diag_fluxo_tela.png, id=18, 361.35pt x 352.31625pt>
 File: imagens/diag_fluxo_tela.png Graphic file (type png)
 <use imagens/diag_fluxo_tela.png>
-Package pdftex.def Info: imagens/diag_fluxo_tela.png  used on input line 95.
+Package pdftex.def Info: imagens/diag_fluxo_tela.png  used on input line 96.
 (pdftex.def)             Requested size: 256.07741pt x 249.67857pt.
-[4 <./imagens/diag_fluxo_tela.png>]
-<img/menu.png, id=23, 1541.76pt x 2055.68pt>
+<img/menu.png, id=19, 1541.76pt x 2055.68pt>
 File: img/menu.png Graphic file (type png)
 <use img/menu.png>
-Package pdftex.def Info: img/menu.png  used on input line 110.
+Package pdftex.def Info: img/menu.png  used on input line 111.
 (pdftex.def)             Requested size: 132.30428pt x 176.37726pt.
-<img/creditos.png, id=25, 1542.01094pt x 2055.93094pt>
+<img/creditos.png, id=21, 1542.01094pt x 2055.93094pt>
 File: img/creditos.png Graphic file (type png)
 <use img/creditos.png>
-Package pdftex.def Info: img/creditos.png  used on input line 114.
+Package pdftex.def Info: img/creditos.png  used on input line 115.
 (pdftex.def)             Requested size: 132.30428pt x 176.39879pt.
- [5 <./img/menu.png> <./img/creditos.png>]
-<img/selecNivel.png, id=31, 1543.51656pt x 2057.18562pt>
+[4 <./imagens/diag_fluxo_tela.png>]
+<img/selecNivel.png, id=25, 1543.51656pt x 2057.18562pt>
 File: img/selecNivel.png Graphic file (type png)
 <use img/selecNivel.png>
-Package pdftex.def Info: img/selecNivel.png  used on input line 131.
+Package pdftex.def Info: img/selecNivel.png  used on input line 132.
 (pdftex.def)             Requested size: 132.30428pt x 176.3181pt.
-<img/selectFases.png, id=32, 1542.01094pt x 2055.93094pt>
+<img/selectFases.png, id=26, 1542.01094pt x 2055.93094pt>
 File: img/selectFases.png Graphic file (type png)
 <use img/selectFases.png>
-Package pdftex.def Info: img/selectFases.png  used on input line 135.
+Package pdftex.def Info: img/selectFases.png  used on input line 136.
 (pdftex.def)             Requested size: 132.30428pt x 176.39879pt.
-<img/memoryGame2.png, id=33, 1544.01843pt x 2057.43657pt>
+<img/memoryGame2.png, id=27, 1544.01843pt x 2057.43657pt>
 File: img/memoryGame2.png Graphic file (type png)
 <use img/memoryGame2.png>
-Package pdftex.def Info: img/memoryGame2.png  used on input line 144.
+Package pdftex.def Info: img/memoryGame2.png  used on input line 145.
 (pdftex.def)             Requested size: 132.30428pt x 176.27682pt.
-<img/memoryGame.png, id=34, 1543.26563pt x 2057.18562pt>
+<img/memoryGame.png, id=28, 1543.26563pt x 2057.18562pt>
 File: img/memoryGame.png Graphic file (type png)
 <use img/memoryGame.png>
-Package pdftex.def Info: img/memoryGame.png  used on input line 148.
+Package pdftex.def Info: img/memoryGame.png  used on input line 149.
 (pdftex.def)             Requested size: 132.30428pt x 176.34949pt.
-<img/palavraCruzadas.png, id=35, 1542.01094pt x 2058.18938pt>
+<img/palavraCruzadas.png, id=29, 1542.01094pt x 2058.18938pt>
 File: img/palavraCruzadas.png Graphic file (type png)
 <use img/palavraCruzadas.png>
-Package pdftex.def Info: img/palavraCruzadas.png  used on input line 152.
+Package pdftex.def Info: img/palavraCruzadas.png  used on input line 153.
 (pdftex.def)             Requested size: 132.30428pt x 176.59256pt.
 
 
-LaTeX Warning: Reference `fig:exampleFig12' on page 6 undefined on input line 1
-57.
+LaTeX Warning: Reference `fig:exampleFig12' on page 5 undefined on input line 1
+58.
 
-[6 <./img/selecNivel.png> <./img/selectFases.png> <./img/memoryGame2.png> <./im
-g/memoryGame.png> <./img/palavraCruzadas.png>]
-<img/pause.png, id=44, 1544.26938pt x 2057.93843pt>
+[5 <./img/menu.png> <./img/creditos.png>]
+<img/pause.png, id=35, 1544.26938pt x 2057.93843pt>
 File: img/pause.png Graphic file (type png)
 <use img/pause.png>
-Package pdftex.def Info: img/pause.png  used on input line 162.
+Package pdftex.def Info: img/pause.png  used on input line 163.
 (pdftex.def)             Requested size: 132.30428pt x 176.28842pt.
-<img/vitoria.png, id=45, 1543.51656pt x 2057.93843pt>
+<img/vitoria.png, id=36, 1543.51656pt x 2057.93843pt>
 File: img/vitoria.png Graphic file (type png)
 <use img/vitoria.png>
-Package pdftex.def Info: img/vitoria.png  used on input line 166.
+Package pdftex.def Info: img/vitoria.png  used on input line 167.
 (pdftex.def)             Requested size: 132.30428pt x 176.38263pt.
- (./game_satere.bbl [7 <./img/pause.png> <./img/vitoria.png>]) [8] (./game_sate
-re.aux)
+ [6 <./img/selecNivel.png> <./img/selectFases.png> <./img/memoryGame2.png> <./i
+mg/memoryGame.png> <./img/palavraCruzadas.png>] (./game_satere.bbl) [7 <./img/p
+ause.png> <./img/vitoria.png>]
+(./game_satere.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3193 strings out of 492648
- 45206 string characters out of 6132016
- 126999 words of memory out of 5000000
- 7005 multiletter control sequences out of 15000+600000
- 20011 words of font info for 41 fonts, out of 8000000 for 9000
+ 3189 strings out of 492648
+ 45159 string characters out of 6132016
+ 127999 words of memory out of 5000000
+ 7002 multiletter control sequences out of 15000+600000
+ 17878 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,28p,887b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,28p,887b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
-utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
-sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on game_satere.pdf (8 pages, 15139235 bytes).
+e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
+w/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on game_satere.pdf (7 pages, 15130746 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

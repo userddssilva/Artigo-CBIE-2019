@@ -1,9 +1,55 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: game_satere.aux
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: game_satere.aux
+White space in argument---line 5 of file game_satere.aux
+ : \citation{de
+ :              Souza Pires et al. 2018}
+I'm skipping whatever remains of this command
 The style file: sbc.bst
 Database file #1: sbc-template.bib
 Warning--I didn't find a database entry for "nielsen1994usability"
-Warning--I didn't find a database entry for "von2018meega+"
 Warning--there's a number but no volume in cunha2008politicas
-Warning--can't use both volume and number fields in de2018livro
 Warning--empty journal in rossing2012ilearning
-(There were 5 warnings)
+Warning--empty journal in von2018meega+
+You've used 8 entries,
+            1935 wiz_defined-function locations,
+            523 strings with 5376 characters,
+and the built_in function-call counts, 2960 in all, are:
+= -- 290
+> -- 110
+< -- 5
++ -- 36
+- -- 36
+* -- 244
+:= -- 527
+add.period$ -- 23
+call.type$ -- 8
+change.case$ -- 58
+chr.to.int$ -- 8
+cite$ -- 11
+duplicate$ -- 118
+empty$ -- 211
+format.name$ -- 44
+if$ -- 569
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 41
+num.names$ -- 24
+pop$ -- 54
+preamble$ -- 1
+purify$ -- 58
+quote$ -- 0
+skip$ -- 88
+stack$ -- 0
+substring$ -- 197
+swap$ -- 11
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 48
+warning$ -- 3
+while$ -- 27
+width$ -- 0
+write$ -- 100
+(There was 1 error message)
