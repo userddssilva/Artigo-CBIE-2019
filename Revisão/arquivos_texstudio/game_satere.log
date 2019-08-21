@@ -1,12 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.6.29)  20 AUG 2019 12:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2018.9.1)  21 AUG 2019 10:48
 entering extended mode
-**./game_satere.tex
-(game_satere.tex
-LaTeX2e <2018-12-01>
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\size12.clo"
-File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**game_satere.tex
+(./game_satere.tex
+LaTeX2e <2018-04-01> patch level 4
+Babel <3.20> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -19,24 +22,24 @@ File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (sbc-template.sty
+) (./sbc-template.sty
 Package: sbc-template 2001/06/09
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
-Package: geometry 2018/04/16 v5.8 Page Geometry
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/03/24 v5.7 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count88
@@ -51,8 +54,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-
-("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) (caption2.sty
+)
+(./caption2.sty
 Package: caption2 2002/08/03 v2.1 Customising captions (AS)
 \captionmargin=\dimen111
 \captionwidth=\dimen112
@@ -60,14 +63,14 @@ Package: caption2 2002/08/03 v2.1 Customising captions (AS)
 Package caption2 Info: Running in caption2 v2.0 compatibility mode on input lin
 e 147.
 \captionlinewidth=\dimen114
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\times.sty"
+) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
 Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
 \c@instn=\count91
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/titlesec\titlesec.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
-\ttl@box=\box27
+\ttl@box=\box26
 \beforetitleunit=\skip43
 \aftertitleunit=\skip44
 \ttl@plus=\dimen115
@@ -77,74 +80,55 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen118
 \titlewidthfirst=\dimen119
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
-Package: babel 2019/04/22 3.30 The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/05/02 3.20 The Babel package
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
-File: switch.def 2019/04/22 3.30 Babel switching mechanism
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/05/02 3.20 Babel switching mechanism
 )
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/babel-portuges\portuges.ldf"
+(/usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
 Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
-File: babel.def 2019/04/22 3.30 Babel common definitions
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/05/02 3.20 Babel common definitions
 \babel@savecnt=\count92
 \U@D=\dimen122
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count93
 )
 \l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 ))
-("C:\Program Files\MiKTeX 2.9\tex/latex/base\inputenc.sty"
-Package: inputenc 2018/08/11 v1.3c Input encoding file
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/04/06 v1.3b Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-)
-Runaway argument?
-{ xxxxxxxx -- xxxxxxxx\\ 
-! Paragraph ended before \address was complete.
-<to be read again> 
-                   \par 
-l.23 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-(game_satere.aux)
+) (./game_satere.aux)
 \openout1 = `game_satere.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
@@ -160,7 +144,7 @@ LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
 LaTeX Font Info:    ... okay on input line 25.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 25.
- ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 *geometry* driver: auto-detecting
@@ -197,11 +181,11 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count94
 \scratchdimen=\dimen123
-\scratchbox=\box28
+\scratchbox=\box27
 \nofMPsegments=\count95
 \nofMParguments=\count96
 \everyMPshowfont=\toks19
@@ -210,36 +194,36 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count98
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks20
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -252,7 +236,11 @@ Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -263,6 +251,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 27.
+
+
+LaTeX Warning: No \author given.
 
 ! Undefined control sequence.
 \@maketitle ...r}[t]{c}\inst {\instnum }\@address 
@@ -285,8 +276,8 @@ ut line 36.
 
 [1
 
-{C:/Users/GapaTEd/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<imagens/diagramaDesenvolvimento.png, id=10, 649.97832pt x 252.49332pt>
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<imagens/diagramaDesenvolvimento.png, id=11, 649.97832pt x 252.49332pt>
 File: imagens/diagramaDesenvolvimento.png Graphic file (type png)
 <use imagens/diagramaDesenvolvimento.png>
 Package pdftex.def Info: imagens/diagramaDesenvolvimento.png  used on input lin
@@ -294,7 +285,7 @@ e 52.
 (pdftex.def)             Requested size: 426.79135pt x 165.79463pt.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 53.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1phv.fd"
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
@@ -309,8 +300,8 @@ LaTeX Warning: Citation `von2018meega+' on page 3 undefined on input line 81.
 
 [3]
 Underfull \hbox (badness 10000) in paragraph at lines 90--92
-[]\OT1/ptm/m/n/12 No link []e poss[]vel as-sis-tir ao v[]deo de-mons-tra-tivo
- do jogo:
+[]\OT1/ptm/m/n/12 No link []e poss[]^^Pvel as-sis-tir ao v[]^^Pdeo de-mons-tra-
+tivo do jogo:
  []
 
 
@@ -319,44 +310,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--92
 O de-sen-vol-vi-mento do apli-ca-
  []
 
-<imagens/diag_fluxo_tela.png, id=18, 361.35pt x 352.31625pt>
+<imagens/diag_fluxo_tela.png, id=19, 361.35pt x 352.31625pt>
 File: imagens/diag_fluxo_tela.png Graphic file (type png)
 <use imagens/diag_fluxo_tela.png>
 Package pdftex.def Info: imagens/diag_fluxo_tela.png  used on input line 95.
 (pdftex.def)             Requested size: 256.07741pt x 249.67857pt.
 [4 <./imagens/diag_fluxo_tela.png>]
-<img/menu.png, id=22, 1541.76pt x 2055.68pt>
+<img/menu.png, id=23, 1541.76pt x 2055.68pt>
 File: img/menu.png Graphic file (type png)
 <use img/menu.png>
 Package pdftex.def Info: img/menu.png  used on input line 110.
 (pdftex.def)             Requested size: 132.30428pt x 176.37726pt.
-<img/creditos.png, id=24, 1542.01094pt x 2055.93094pt>
+<img/creditos.png, id=25, 1542.01094pt x 2055.93094pt>
 File: img/creditos.png Graphic file (type png)
 <use img/creditos.png>
 Package pdftex.def Info: img/creditos.png  used on input line 114.
 (pdftex.def)             Requested size: 132.30428pt x 176.39879pt.
  [5 <./img/menu.png> <./img/creditos.png>]
-<img/selecNivel.png, id=30, 1543.51656pt x 2057.18562pt>
+<img/selecNivel.png, id=31, 1543.51656pt x 2057.18562pt>
 File: img/selecNivel.png Graphic file (type png)
 <use img/selecNivel.png>
 Package pdftex.def Info: img/selecNivel.png  used on input line 131.
 (pdftex.def)             Requested size: 132.30428pt x 176.3181pt.
-<img/selectFases.png, id=31, 1542.01094pt x 2055.93094pt>
+<img/selectFases.png, id=32, 1542.01094pt x 2055.93094pt>
 File: img/selectFases.png Graphic file (type png)
 <use img/selectFases.png>
 Package pdftex.def Info: img/selectFases.png  used on input line 135.
 (pdftex.def)             Requested size: 132.30428pt x 176.39879pt.
-<img/memoryGame2.png, id=32, 1544.01843pt x 2057.43657pt>
+<img/memoryGame2.png, id=33, 1544.01843pt x 2057.43657pt>
 File: img/memoryGame2.png Graphic file (type png)
 <use img/memoryGame2.png>
 Package pdftex.def Info: img/memoryGame2.png  used on input line 144.
 (pdftex.def)             Requested size: 132.30428pt x 176.27682pt.
-<img/memoryGame.png, id=33, 1543.26563pt x 2057.18562pt>
+<img/memoryGame.png, id=34, 1543.26563pt x 2057.18562pt>
 File: img/memoryGame.png Graphic file (type png)
 <use img/memoryGame.png>
 Package pdftex.def Info: img/memoryGame.png  used on input line 148.
 (pdftex.def)             Requested size: 132.30428pt x 176.34949pt.
-<img/palavraCruzadas.png, id=34, 1542.01094pt x 2058.18938pt>
+<img/palavraCruzadas.png, id=35, 1542.01094pt x 2058.18938pt>
 File: img/palavraCruzadas.png Graphic file (type png)
 <use img/palavraCruzadas.png>
 Package pdftex.def Info: img/palavraCruzadas.png  used on input line 152.
@@ -368,39 +359,40 @@ LaTeX Warning: Reference `fig:exampleFig12' on page 6 undefined on input line 1
 
 [6 <./img/selecNivel.png> <./img/selectFases.png> <./img/memoryGame2.png> <./im
 g/memoryGame.png> <./img/palavraCruzadas.png>]
-<img/pause.png, id=43, 1544.26938pt x 2057.93843pt>
+<img/pause.png, id=44, 1544.26938pt x 2057.93843pt>
 File: img/pause.png Graphic file (type png)
 <use img/pause.png>
 Package pdftex.def Info: img/pause.png  used on input line 162.
 (pdftex.def)             Requested size: 132.30428pt x 176.28842pt.
-<img/vitoria.png, id=44, 1543.51656pt x 2057.93843pt>
+<img/vitoria.png, id=45, 1543.51656pt x 2057.93843pt>
 File: img/vitoria.png Graphic file (type png)
 <use img/vitoria.png>
 Package pdftex.def Info: img/vitoria.png  used on input line 166.
 (pdftex.def)             Requested size: 132.30428pt x 176.38263pt.
- (game_satere.bbl [7 <./img/pause.png> <./img/vitoria.png>]) [8] (game_satere.a
-ux)
+ (./game_satere.bbl [7 <./img/pause.png> <./img/vitoria.png>]) [8] (./game_sate
+re.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3231 strings out of 492897
- 46172 string characters out of 3133492
- 129888 words of memory out of 3000000
- 7070 multiletter control sequences out of 15000+200000
- 20011 words of font info for 41 fonts, out of 3000000 for 9000
+ 3193 strings out of 492648
+ 45206 string characters out of 6132016
+ 126999 words of memory out of 5000000
+ 7005 multiletter control sequences out of 15000+600000
+ 20011 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,28p,889b,254s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw
-/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on game_satere.pdf (8 pages, 15147269 bytes).
+ 41i,8n,28p,887b,254s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
+utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on game_satere.pdf (8 pages, 15139235 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
